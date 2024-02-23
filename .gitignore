@@ -2,4 +2,9 @@
 node_modules
 yarn-error.log
 
-node_modules/
+node_modules /
+
+config/settings_data.json
+locales/*.json
+templates/*.json
+assets/*.js.map
